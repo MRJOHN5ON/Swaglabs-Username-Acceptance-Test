@@ -1,0 +1,55 @@
+Login failed as expected for username: '', password: 'secret_sauce'
+Login failed as expected for username: 'standard_user', password: ''
+Login failed as expected for username: 'standard_user', password: 'password'
+Login failed as expected for username: 'standard_user', password: 'secret sauce'
+Login failed as expected for username: 'standard_user', password: 'SECRET_SAUCE'
+Login failed as expected for username: 'standard_user', password: 'Secret_sauce'
+Login failed as expected for username: 'standard_user', password: ' secret_sauce'
+Login failed as expected for username: 'standard_user', password: 'secret_sauce '
+Login failed as expected for username: 'locked_out_user', password: 'password'
+Login failed as expected for username: 'locked_out_user', password: 'secret sauce'
+Login failed as expected for username: 'locked_out_user', password: 'SECRET_SAUCE'
+Login failed as expected for username: 'locked_out_user', password: 'Secret_sauce'
+Login failed as expected for username: 'locked_out_user', password: ' secret_sauce'
+Login failed as expected for username: 'locked_out_user', password: 'secret_sauce '
+Login failed as expected for username: 'problem_user', password: 'password'
+Login failed as expected for username: 'problem_user', password: 'secret sauce'
+Login failed as expected for username: 'problem_user', password: 'SECRET_SAUCE'
+Login failed as expected for username: 'problem_user', password: 'Secret_sauce'
+Login failed as expected for username: 'problem_user', password: ' secret_sauce'
+Login failed as expected for username: 'problem_user', password: 'secret_sauce '
+Login failed as expected for username: 'performance_glitch_user', password: 'password'
+Login failed as expected for username: 'performance_glitch_user', password: 'secret sauce'
+Login failed as expected for username: 'performance_glitch_user', password: 'SECRET_SAUCE'
+Login failed as expected for username: 'performance_glitch_user', password: 'Secret_sauce'
+Login failed as expected for username: 'performance_glitch_user', password: ' secret_sauce'
+Login failed as expected for username: 'performance_glitch_user', password: 'secret_sauce '
+Login failed as expected for username: 'error_user', password: 'password'
+Login failed as expected for username: 'error_user', password: 'secret sauce'
+Login failed as expected for username: 'error_user', password: 'SECRET_SAUCE'
+Login failed as expected for username: 'error_user', password: 'Secret_sauce'
+Login failed as expected for username: 'error_user', password: ' secret_sauce'
+Login failed as expected for username: 'error_user', password: 'secret_sauce '
+Login failed as expected for username: 'visual_user', password: 'password'
+Login failed as expected for username: 'visual_user', password: 'secret sauce'
+Login failed as expected for username: 'visual_user', password: 'SECRET_SAUCE'
+Login failed as expected for username: 'visual_user', password: 'Secret_sauce'
+Login failed as expected for username: 'visual_user', password: ' secret_sauce'
+Login failed as expected for username: 'visual_user', password: 'secret_sauce '
+Login failed as expected for user: sstandard_user
+Login failed as expected for user: lloocked_out_user
+Login failed as expected for user: pprroblem_user
+Login failed as expected for user: ppeerrformance_glitch_user
+Login failed as expected for user: eerror_user
+Login failed as expected for user: vvisual_user
+Login failed as expected for user: пользователь
+Login failed as expected for user: учетнаязапись
+Login failed as expected for user: 1234567890
+Login failed as expected for user: !@#$%^&*()
+Login failed as expected for user: standard user
+Login failed as expected for user: locked out user
+Login unexpectedly succeeded for user: standard_user
+Login failed as expected for user: Standard_user
+Login failed as expected for user: STANDARD_USER
+Login failed as expected for user:  standard_user
+Login failed as expected for user: standard_user 
